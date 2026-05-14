@@ -1,4 +1,4 @@
-# 
+# smart 7-Zip for PC | 7-Zip for Windows Addon | file-compression + command-line-support offers the most advanced 7-Zip for PC | 7-Zip for Windows addon, with file-compression and
 
 
 
